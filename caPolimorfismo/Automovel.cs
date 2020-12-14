@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace caPolimorfismo
 {
-    class Automovel : Veiculo // Automovel herda de Veiculo
+    class Automovel : Veiculo
     {
-        // atributo
         private int qte_rodas; 
 
-        // metodos
         public Automovel(String _tipo, int _qte_rodas) : base(_tipo) // construtor
         {
             qte_rodas = _qte_rodas;
