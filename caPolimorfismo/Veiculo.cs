@@ -8,11 +8,9 @@ namespace caPolimorfismo
 {
     class Veiculo
     {
-        // atributos
-        protected String tipo; // protected --> usado em herança de mãe para filhas.
+        protected String tipo;
 
-        // métodos
-        public Veiculo(String  _tipo) // ARIDADE = 1
+        public Veiculo(String  _tipo)
         {
             tipo = _tipo;
         }
@@ -30,6 +28,5 @@ namespace caPolimorfismo
         public virtual void mover() { }
 
         public virtual void parar() { }
-
     }
 }
