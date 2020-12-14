@@ -17,12 +17,12 @@ namespace caPolimorfismo
 
         public override void mover()
         {
-            Console.WriteLine("Acelerando o automovel");
+            Console.WriteLine("Acelerando o automóvel");
         }
 
         public override void parar()
         {
-            Console.WriteLine("Brecando o automovel");
+            Console.WriteLine("Freiando o automóvel");
         }
     }
 }
