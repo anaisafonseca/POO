@@ -6,14 +6,10 @@ using System.Threading.Tasks;
 
 namespace caPolimorfismo
 {
-    class Aeronave : Veiculo // Aeronave herda de Veiculo
+    class Aeronave : Veiculo
     {
-        // atributo
         private int qte_turbinas;
 
-        // metodos
-
-        
         public Aeronave(String _tipo, int _qte_turbinas) : base(_tipo)
         {
             qte_turbinas = _qte_turbinas;
@@ -29,5 +25,5 @@ namespace caPolimorfismo
         {
             Console.WriteLine("Brecando a aeronave");
         }
-    } // fim da classe Aeronave
+    }
 }
