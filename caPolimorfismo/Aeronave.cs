@@ -23,7 +23,7 @@ namespace caPolimorfismo
 
         public override void parar()
         {
-            Console.WriteLine("Brecando a aeronave");
+            Console.WriteLine("Freiando a aeronave");
         }
     }
 }
