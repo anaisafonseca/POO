@@ -6,15 +6,12 @@ using System.Threading.Tasks;
 
 namespace caHeranca
 {
-    class Gerente : Empregado // Gerente herda de Empregado
+    class Gerente : Empregado
     {
-        // atributos
         private String secretaria;
 
-        // métodos
         public Gerente() : base()
         {
-
         }
 
         public Gerente(String _nome, String _secao,
@@ -34,12 +31,10 @@ namespace caHeranca
             secretaria = _secretaria;
         }
 
-                
         public override void aumentaSalario(double percentagem) // 'override
         {
             double novaPercentagem = percentagem + 15.0;
             base.aumentaSalario(novaPercentagem);
         }
-
-    } // fim da classe Gerente
+    }
 }
