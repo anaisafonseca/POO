@@ -26,7 +26,6 @@ namespace caHeranca
             Console.WriteLine("\n Salario DEPOIS do Empregado: " + e1.getSalario());
             Console.WriteLine("Salario DEPOIS do Gerente: " + g1.getSalario());
             Console.Read();
-
         }
     }
 }
