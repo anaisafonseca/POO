@@ -1,0 +1,7 @@
+D:\POO\caTempo\obj\Debug\caTempo.csprojAssemblyReference.cache
+D:\POO\caTempo\obj\Debug\caTempo.csproj.CoreCompileInputs.cache
+D:\POO\caTempo\bin\Debug\caTempo.exe.config
+D:\POO\caTempo\bin\Debug\caTempo.exe
+D:\POO\caTempo\bin\Debug\caTempo.pdb
+D:\POO\caTempo\obj\Debug\caTempo.exe
+D:\POO\caTempo\obj\Debug\caTempo.pdb
