@@ -1,0 +1,7 @@
+C:\Users\anais\Documents\ufu\poo\trabalho 1\caVetor3D\obj\Debug\caVetor3D.csprojAssemblyReference.cache
+C:\Users\anais\Documents\ufu\poo\trabalho 1\caVetor3D\obj\Debug\caVetor3D.csproj.CoreCompileInputs.cache
+C:\Users\anais\Documents\ufu\poo\trabalho 1\caVetor3D\bin\Debug\caVetor3D.exe.config
+C:\Users\anais\Documents\ufu\poo\trabalho 1\caVetor3D\bin\Debug\caVetor3D.exe
+C:\Users\anais\Documents\ufu\poo\trabalho 1\caVetor3D\bin\Debug\caVetor3D.pdb
+C:\Users\anais\Documents\ufu\poo\trabalho 1\caVetor3D\obj\Debug\caVetor3D.exe
+C:\Users\anais\Documents\ufu\poo\trabalho 1\caVetor3D\obj\Debug\caVetor3D.pdb
