@@ -1,0 +1,7 @@
+D:\POO\caAluno\obj\Debug\caAluno.csprojAssemblyReference.cache
+D:\POO\caAluno\obj\Debug\caAluno.csproj.CoreCompileInputs.cache
+D:\POO\caAluno\bin\Debug\caAluno.exe.config
+D:\POO\caAluno\bin\Debug\caAluno.exe
+D:\POO\caAluno\bin\Debug\caAluno.pdb
+D:\POO\caAluno\obj\Debug\caAluno.exe
+D:\POO\caAluno\obj\Debug\caAluno.pdb
