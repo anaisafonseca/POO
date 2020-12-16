@@ -1,0 +1,7 @@
+C:\Users\anais\Documents\ufu\poo\caEstacionamento\bin\Debug\caEstacionamento.exe.config
+C:\Users\anais\Documents\ufu\poo\caEstacionamento\bin\Debug\caEstacionamento.exe
+C:\Users\anais\Documents\ufu\poo\caEstacionamento\bin\Debug\caEstacionamento.pdb
+C:\Users\anais\Documents\ufu\poo\caEstacionamento\obj\Debug\caEstacionamento.csprojAssemblyReference.cache
+C:\Users\anais\Documents\ufu\poo\caEstacionamento\obj\Debug\caEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\anais\Documents\ufu\poo\caEstacionamento\obj\Debug\caEstacionamento.exe
+C:\Users\anais\Documents\ufu\poo\caEstacionamento\obj\Debug\caEstacionamento.pdb
