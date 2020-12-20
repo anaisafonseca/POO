@@ -1,0 +1,10 @@
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\bin\Debug\Controle_de_Pagamentos.exe.config
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\bin\Debug\Controle_de_Pagamentos.exe
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\bin\Debug\Controle_de_Pagamentos.pdb
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\obj\Debug\Controle_de_Pagamentos.csprojAssemblyReference.cache
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\obj\Debug\Controle_de_Pagamentos.Form1.resources
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\obj\Debug\Controle_de_Pagamentos.Properties.Resources.resources
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\obj\Debug\Controle_de_Pagamentos.csproj.GenerateResource.cache
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\obj\Debug\Controle_de_Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\obj\Debug\Controle_de_Pagamentos.exe
+C:\Users\jppn4\source\repos\Controle_de_Pagamentos\Controle_de_Pagamentos\obj\Debug\Controle_de_Pagamentos.pdb
