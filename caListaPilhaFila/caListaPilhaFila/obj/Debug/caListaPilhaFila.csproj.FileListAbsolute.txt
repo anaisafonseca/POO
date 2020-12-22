@@ -1,0 +1,14 @@
+C:\Users\gap15\source\repos\caListaPilhaFila\caListaPilhaFila\obj\Debug\caListaPilhaFila.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caListaPilhaFila\caListaPilhaFila\obj\Debug\caListaPilhaFila.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caListaPilhaFila\caListaPilhaFila\bin\Debug\caListaPilhaFila.exe.config
+C:\Users\gap15\source\repos\caListaPilhaFila\caListaPilhaFila\bin\Debug\caListaPilhaFila.exe
+C:\Users\gap15\source\repos\caListaPilhaFila\caListaPilhaFila\bin\Debug\caListaPilhaFila.pdb
+C:\Users\gap15\source\repos\caListaPilhaFila\caListaPilhaFila\obj\Debug\caListaPilhaFila.exe
+C:\Users\gap15\source\repos\caListaPilhaFila\caListaPilhaFila\obj\Debug\caListaPilhaFila.pdb
+C:\Users\anais\Documents\ufu\poo\caListaPilhaFila\caListaPilhaFila\bin\Debug\caListaPilhaFila.exe.config
+C:\Users\anais\Documents\ufu\poo\caListaPilhaFila\caListaPilhaFila\bin\Debug\caListaPilhaFila.exe
+C:\Users\anais\Documents\ufu\poo\caListaPilhaFila\caListaPilhaFila\bin\Debug\caListaPilhaFila.pdb
+C:\Users\anais\Documents\ufu\poo\caListaPilhaFila\caListaPilhaFila\obj\Debug\caListaPilhaFila.csprojAssemblyReference.cache
+C:\Users\anais\Documents\ufu\poo\caListaPilhaFila\caListaPilhaFila\obj\Debug\caListaPilhaFila.csproj.CoreCompileInputs.cache
+C:\Users\anais\Documents\ufu\poo\caListaPilhaFila\caListaPilhaFila\obj\Debug\caListaPilhaFila.exe
+C:\Users\anais\Documents\ufu\poo\caListaPilhaFila\caListaPilhaFila\obj\Debug\caListaPilhaFila.pdb
