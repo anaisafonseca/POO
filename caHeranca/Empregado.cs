@@ -8,12 +8,16 @@ namespace caHeranca
 {
     class Empregado
     {
-        protected String nome;
-        protected String secao;
+        // atributos
+        protected String nome;      // protected = atributo pode ser acessado diretamente
+        protected String secao;     // por classes derivadas/filhas/subclasses
         protected double salario;
+       
 
+        // metodos
         public Empregado()
         {
+
         }
 
         public Empregado(String _nome, String _secao, double _salario)
@@ -53,9 +57,12 @@ namespace caHeranca
             this.salario = _salario;
         }
 
+        
         public virtual void aumentaSalario(double percentual) // 'virtual'
         {
             salario *= 1 + percentual / 100;
+            // salario = salario * (1 + percentual / 100); 
         }
-    }
+
+    } // fim da classe Empregado
 }

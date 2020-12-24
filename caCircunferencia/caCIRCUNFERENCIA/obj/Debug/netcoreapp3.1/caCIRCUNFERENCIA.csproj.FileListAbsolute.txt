@@ -1,0 +1,11 @@
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\obj\Debug\netcoreapp3.1\caCIRCUNFERENCIA.csprojAssemblyReference.cache
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\obj\Debug\netcoreapp3.1\caCIRCUNFERENCIA.AssemblyInfoInputs.cache
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\obj\Debug\netcoreapp3.1\caCIRCUNFERENCIA.AssemblyInfo.cs
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\bin\Debug\netcoreapp3.1\caCIRCUNFERENCIA.exe
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\bin\Debug\netcoreapp3.1\caCIRCUNFERENCIA.deps.json
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\bin\Debug\netcoreapp3.1\caCIRCUNFERENCIA.runtimeconfig.json
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\bin\Debug\netcoreapp3.1\caCIRCUNFERENCIA.runtimeconfig.dev.json
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\bin\Debug\netcoreapp3.1\caCIRCUNFERENCIA.dll
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\bin\Debug\netcoreapp3.1\caCIRCUNFERENCIA.pdb
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\obj\Debug\netcoreapp3.1\caCIRCUNFERENCIA.dll
+C:\Users\anais\Documents\poo\caCIRCUNFERENCIA\caCIRCUNFERENCIA\obj\Debug\netcoreapp3.1\caCIRCUNFERENCIA.pdb

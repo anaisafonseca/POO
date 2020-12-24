@@ -1,0 +1,11 @@
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\bin\Debug\netcoreapp3.1\caRETANGULO.exe
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\bin\Debug\netcoreapp3.1\caRETANGULO.deps.json
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\bin\Debug\netcoreapp3.1\caRETANGULO.runtimeconfig.json
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\bin\Debug\netcoreapp3.1\caRETANGULO.runtimeconfig.dev.json
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\bin\Debug\netcoreapp3.1\caRETANGULO.dll
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\bin\Debug\netcoreapp3.1\caRETANGULO.pdb
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\obj\Debug\netcoreapp3.1\caRETANGULO.csprojAssemblyReference.cache
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\obj\Debug\netcoreapp3.1\caRETANGULO.AssemblyInfoInputs.cache
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\obj\Debug\netcoreapp3.1\caRETANGULO.AssemblyInfo.cs
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\obj\Debug\netcoreapp3.1\caRETANGULO.dll
+C:\Users\anais\Documents\poo\caRETANGULO\caRETANGULO\obj\Debug\netcoreapp3.1\caRETANGULO.pdb
